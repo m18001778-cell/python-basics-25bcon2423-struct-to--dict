@@ -23,6 +23,7 @@ Example
 The program stores the following information:
 
 student = {
+
     "Name": "Aditya",
     "Roll": 10,
     "Marks": 90.99
