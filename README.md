@@ -1,4 +1,4 @@
-Student Details Using Python Dictionary
+"Student Details Using Python Dictionary"
 A simple Python program that demonstrates how to store and display student information using a Python dictionary. The program stores a student's name, roll number, and marks, then displays the details in a clear format.
 
 Features
