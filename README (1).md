@@ -28,7 +28,7 @@ The program stores the following information:
 
 ```python
 student = {
-    "Name": "Pulkit",
+    "Name": "Aditya",
     "Roll": 10,
     "Marks": 90.99
 }
@@ -38,7 +38,7 @@ Example output:
 
 ```text
 Student Details:
-Name  : Pulkit
+Name  : Aditya
 Roll  : 10
 Marks : 90.99
 ```
